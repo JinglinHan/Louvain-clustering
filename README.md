@@ -4,6 +4,7 @@ MATLAB simulation of clustering using Louvain algorithm, and comparing its perfo
 
 Here is two sets of code.
 
+----------------------------------------------------------------------------------------------------------------------------------
 In the branch "clustering", the code set groups the nodes using Louvain (coded by us), 
 Louvain (code you recommend on Github) and K-means (from MATLAB, and it's Kmeans++, to be exact).
 And the result of clustering is showed in figure 2, 3 and 4, respectively.
