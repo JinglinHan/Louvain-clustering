@@ -4,7 +4,7 @@ MATLAB simulation of clustering using Louvain algorithm, and comparing its perfo
 
 Here is two sets of code.
 
-In the folder "clustering", the code set groups the nodes using Louvain (coded by us), 
+In the branch "clustering", the code set groups the nodes using Louvain (coded by us), 
 Louvain (code you recommend on Github) and K-means (from MATLAB, and it's Kmeans++, to be exact).
 And the result of clustering is showed in figure 2, 3 and 4, respectively.
 Figure 1 shows the initial postion of all nodes.
@@ -26,7 +26,7 @@ Parameters like numbers of cluster, average number of nodes, etc, can be modifie
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-In the folder "compare", the code set compares the performances of Louvain algorithm with Kmeans.
+In the branch "compare", the code set compares the performances of Louvain algorithm with Kmeans.
 There is only minor difference between the m files here and those in the clustering folder, that is all the functions
 of plotting figure are commented because we don't need them here.
 
